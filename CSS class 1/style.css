@@ -1,0 +1,17 @@
+.sahil{
+   color:red ;
+   font-size: larger;
+   text-align: center;
+}
+main{
+   color:blueviolet;
+   text-align:center;
+   font-size: larger;
+}
+footer{
+   color:deeppink;
+   text-align: start;
+}
+.file{
+   border   : 4px solid brown;
+}
